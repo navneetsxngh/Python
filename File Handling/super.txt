@@ -1,0 +1,4 @@
+This is a Write Command. 
+It allows us to write in a particular file. 
+We have to read loop in Python. 
+We love JS. 
